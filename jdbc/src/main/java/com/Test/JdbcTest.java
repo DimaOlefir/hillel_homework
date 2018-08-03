@@ -1,4 +1,4 @@
-package com.Test;
+package com.test;
 
 import com.models.City;
 import com.models.Student;
