@@ -1,8 +1,0 @@
-com\controllers\CityController.class
-com\controllers\StudentController.class
-com\services\StudentService.class
-com\repositories\CityRepository.class
-com\services\CityService.class
-com\repositories\StudentRepository.class
-com\models\Student.class
-com\models\City.class
